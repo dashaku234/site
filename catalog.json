@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 1,
+    "name": "Appliance Model 1",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$503",
+    "discountedPrice": "$251",
+    "img": "https://picsum.photos/seed/appliance1/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Appliance Model 2",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$506",
+    "discountedPrice": "$253",
+    "img": "https://picsum.photos/seed/appliance2/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Appliance Model 3",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$509",
+    "discountedPrice": "$254",
+    "img": "https://picsum.photos/seed/appliance3/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Appliance Model 4",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$512",
+    "discountedPrice": "$256",
+    "img": "https://picsum.photos/seed/appliance4/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Appliance Model 5",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$515",
+    "discountedPrice": "$257",
+    "img": "https://picsum.photos/seed/appliance5/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Appliance Model 6",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$518",
+    "discountedPrice": "$259",
+    "img": "https://picsum.photos/seed/appliance6/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Appliance Model 7",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$521",
+    "discountedPrice": "$260",
+    "img": "https://picsum.photos/seed/appliance7/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Appliance Model 8",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$524",
+    "discountedPrice": "$262",
+    "img": "https://picsum.photos/seed/appliance8/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Appliance Model 9",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$527",
+    "discountedPrice": "$263",
+    "img": "https://picsum.photos/seed/appliance9/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Appliance Model 10",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$530",
+    "discountedPrice": "$265",
+    "img": "https://picsum.photos/seed/appliance10/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Appliance Model 11",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$533",
+    "discountedPrice": "$266",
+    "img": "https://picsum.photos/seed/appliance11/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Appliance Model 12",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$536",
+    "discountedPrice": "$268",
+    "img": "https://picsum.photos/seed/appliance12/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Appliance Model 13",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$539",
+    "discountedPrice": "$269",
+    "img": "https://picsum.photos/seed/appliance13/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Appliance Model 14",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$542",
+    "discountedPrice": "$271",
+    "img": "https://picsum.photos/seed/appliance14/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Appliance Model 15",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$545",
+    "discountedPrice": "$272",
+    "img": "https://picsum.photos/seed/appliance15/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Appliance Model 16",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$548",
+    "discountedPrice": "$274",
+    "img": "https://picsum.photos/seed/appliance16/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Appliance Model 17",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$551",
+    "discountedPrice": "$275",
+    "img": "https://picsum.photos/seed/appliance17/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Appliance Model 18",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$554",
+    "discountedPrice": "$277",
+    "img": "https://picsum.photos/seed/appliance18/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Appliance Model 19",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$557",
+    "discountedPrice": "$278",
+    "img": "https://picsum.photos/seed/appliance19/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Appliance Model 20",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$560",
+    "discountedPrice": "$280",
+    "img": "https://picsum.photos/seed/appliance20/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Appliance Model 21",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$563",
+    "discountedPrice": "$281",
+    "img": "https://picsum.photos/seed/appliance21/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Appliance Model 22",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$566",
+    "discountedPrice": "$283",
+    "img": "https://picsum.photos/seed/appliance22/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Appliance Model 23",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$569",
+    "discountedPrice": "$284",
+    "img": "https://picsum.photos/seed/appliance23/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Appliance Model 24",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$572",
+    "discountedPrice": "$286",
+    "img": "https://picsum.photos/seed/appliance24/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Appliance Model 25",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$575",
+    "discountedPrice": "$287",
+    "img": "https://picsum.photos/seed/appliance25/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Appliance Model 26",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$578",
+    "discountedPrice": "$289",
+    "img": "https://picsum.photos/seed/appliance26/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Appliance Model 27",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$581",
+    "discountedPrice": "$290",
+    "img": "https://picsum.photos/seed/appliance27/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Appliance Model 28",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$584",
+    "discountedPrice": "$292",
+    "img": "https://picsum.photos/seed/appliance28/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Appliance Model 29",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$587",
+    "discountedPrice": "$293",
+    "img": "https://picsum.photos/seed/appliance29/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Appliance Model 30",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$590",
+    "discountedPrice": "$295",
+    "img": "https://picsum.photos/seed/appliance30/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Appliance Model 31",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$593",
+    "discountedPrice": "$296",
+    "img": "https://picsum.photos/seed/appliance31/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Appliance Model 32",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$596",
+    "discountedPrice": "$298",
+    "img": "https://picsum.photos/seed/appliance32/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Appliance Model 33",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$599",
+    "discountedPrice": "$299",
+    "img": "https://picsum.photos/seed/appliance33/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Appliance Model 34",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$602",
+    "discountedPrice": "$301",
+    "img": "https://picsum.photos/seed/appliance34/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Appliance Model 35",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$605",
+    "discountedPrice": "$302",
+    "img": "https://picsum.photos/seed/appliance35/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Appliance Model 36",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$608",
+    "discountedPrice": "$304",
+    "img": "https://picsum.photos/seed/appliance36/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Appliance Model 37",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$611",
+    "discountedPrice": "$305",
+    "img": "https://picsum.photos/seed/appliance37/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Appliance Model 38",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$614",
+    "discountedPrice": "$307",
+    "img": "https://picsum.photos/seed/appliance38/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Appliance Model 39",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$617",
+    "discountedPrice": "$308",
+    "img": "https://picsum.photos/seed/appliance39/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Appliance Model 40",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$620",
+    "discountedPrice": "$310",
+    "img": "https://picsum.photos/seed/appliance40/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Appliance Model 41",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$623",
+    "discountedPrice": "$311",
+    "img": "https://picsum.photos/seed/appliance41/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Appliance Model 42",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$626",
+    "discountedPrice": "$313",
+    "img": "https://picsum.photos/seed/appliance42/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Appliance Model 43",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$629",
+    "discountedPrice": "$314",
+    "img": "https://picsum.photos/seed/appliance43/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Appliance Model 44",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$632",
+    "discountedPrice": "$316",
+    "img": "https://picsum.photos/seed/appliance44/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Appliance Model 45",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$635",
+    "discountedPrice": "$317",
+    "img": "https://picsum.photos/seed/appliance45/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Appliance Model 46",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$638",
+    "discountedPrice": "$319",
+    "img": "https://picsum.photos/seed/appliance46/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Appliance Model 47",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$641",
+    "discountedPrice": "$320",
+    "img": "https://picsum.photos/seed/appliance47/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Appliance Model 48",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$644",
+    "discountedPrice": "$322",
+    "img": "https://picsum.photos/seed/appliance48/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Appliance Model 49",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$647",
+    "discountedPrice": "$323",
+    "img": "https://picsum.photos/seed/appliance49/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Appliance Model 50",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$650",
+    "discountedPrice": "$325",
+    "img": "https://picsum.photos/seed/appliance50/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Appliance Model 51",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$653",
+    "discountedPrice": "$326",
+    "img": "https://picsum.photos/seed/appliance51/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Appliance Model 52",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$656",
+    "discountedPrice": "$328",
+    "img": "https://picsum.photos/seed/appliance52/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Appliance Model 53",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$659",
+    "discountedPrice": "$329",
+    "img": "https://picsum.photos/seed/appliance53/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Appliance Model 54",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$662",
+    "discountedPrice": "$331",
+    "img": "https://picsum.photos/seed/appliance54/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Appliance Model 55",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$665",
+    "discountedPrice": "$332",
+    "img": "https://picsum.photos/seed/appliance55/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Appliance Model 56",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$668",
+    "discountedPrice": "$334",
+    "img": "https://picsum.photos/seed/appliance56/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Appliance Model 57",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$671",
+    "discountedPrice": "$335",
+    "img": "https://picsum.photos/seed/appliance57/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Appliance Model 58",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$674",
+    "discountedPrice": "$337",
+    "img": "https://picsum.photos/seed/appliance58/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Appliance Model 59",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$677",
+    "discountedPrice": "$338",
+    "img": "https://picsum.photos/seed/appliance59/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Appliance Model 60",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$680",
+    "discountedPrice": "$340",
+    "img": "https://picsum.photos/seed/appliance60/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Appliance Model 61",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$683",
+    "discountedPrice": "$341",
+    "img": "https://picsum.photos/seed/appliance61/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Appliance Model 62",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$686",
+    "discountedPrice": "$343",
+    "img": "https://picsum.photos/seed/appliance62/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Appliance Model 63",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$689",
+    "discountedPrice": "$344",
+    "img": "https://picsum.photos/seed/appliance63/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Appliance Model 64",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$692",
+    "discountedPrice": "$346",
+    "img": "https://picsum.photos/seed/appliance64/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Appliance Model 65",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$695",
+    "discountedPrice": "$347",
+    "img": "https://picsum.photos/seed/appliance65/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Appliance Model 66",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$698",
+    "discountedPrice": "$349",
+    "img": "https://picsum.photos/seed/appliance66/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Appliance Model 67",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$701",
+    "discountedPrice": "$350",
+    "img": "https://picsum.photos/seed/appliance67/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Appliance Model 68",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$704",
+    "discountedPrice": "$352",
+    "img": "https://picsum.photos/seed/appliance68/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Appliance Model 69",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$707",
+    "discountedPrice": "$353",
+    "img": "https://picsum.photos/seed/appliance69/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Appliance Model 70",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$710",
+    "discountedPrice": "$355",
+    "img": "https://picsum.photos/seed/appliance70/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Appliance Model 71",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$713",
+    "discountedPrice": "$356",
+    "img": "https://picsum.photos/seed/appliance71/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Appliance Model 72",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$716",
+    "discountedPrice": "$358",
+    "img": "https://picsum.photos/seed/appliance72/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Appliance Model 73",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$719",
+    "discountedPrice": "$359",
+    "img": "https://picsum.photos/seed/appliance73/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Appliance Model 74",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$722",
+    "discountedPrice": "$361",
+    "img": "https://picsum.photos/seed/appliance74/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Appliance Model 75",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$725",
+    "discountedPrice": "$362",
+    "img": "https://picsum.photos/seed/appliance75/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Appliance Model 76",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$728",
+    "discountedPrice": "$364",
+    "img": "https://picsum.photos/seed/appliance76/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Appliance Model 77",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$731",
+    "discountedPrice": "$365",
+    "img": "https://picsum.photos/seed/appliance77/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Appliance Model 78",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$734",
+    "discountedPrice": "$367",
+    "img": "https://picsum.photos/seed/appliance78/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Appliance Model 79",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$737",
+    "discountedPrice": "$368",
+    "img": "https://picsum.photos/seed/appliance79/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Appliance Model 80",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$740",
+    "discountedPrice": "$370",
+    "img": "https://picsum.photos/seed/appliance80/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Appliance Model 81",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$743",
+    "discountedPrice": "$371",
+    "img": "https://picsum.photos/seed/appliance81/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Appliance Model 82",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$746",
+    "discountedPrice": "$373",
+    "img": "https://picsum.photos/seed/appliance82/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Appliance Model 83",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$749",
+    "discountedPrice": "$374",
+    "img": "https://picsum.photos/seed/appliance83/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Appliance Model 84",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$752",
+    "discountedPrice": "$376",
+    "img": "https://picsum.photos/seed/appliance84/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Appliance Model 85",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$755",
+    "discountedPrice": "$377",
+    "img": "https://picsum.photos/seed/appliance85/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Appliance Model 86",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$758",
+    "discountedPrice": "$379",
+    "img": "https://picsum.photos/seed/appliance86/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Appliance Model 87",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$761",
+    "discountedPrice": "$380",
+    "img": "https://picsum.photos/seed/appliance87/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Appliance Model 88",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$764",
+    "discountedPrice": "$382",
+    "img": "https://picsum.photos/seed/appliance88/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Appliance Model 89",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$767",
+    "discountedPrice": "$383",
+    "img": "https://picsum.photos/seed/appliance89/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Appliance Model 90",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$770",
+    "discountedPrice": "$385",
+    "img": "https://picsum.photos/seed/appliance90/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Appliance Model 91",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$773",
+    "discountedPrice": "$386",
+    "img": "https://picsum.photos/seed/appliance91/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Appliance Model 92",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$776",
+    "discountedPrice": "$388",
+    "img": "https://picsum.photos/seed/appliance92/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Appliance Model 93",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$779",
+    "discountedPrice": "$389",
+    "img": "https://picsum.photos/seed/appliance93/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Appliance Model 94",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$782",
+    "discountedPrice": "$391",
+    "img": "https://picsum.photos/seed/appliance94/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Appliance Model 95",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$785",
+    "discountedPrice": "$392",
+    "img": "https://picsum.photos/seed/appliance95/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Appliance Model 96",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$788",
+    "discountedPrice": "$394",
+    "img": "https://picsum.photos/seed/appliance96/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Appliance Model 97",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$791",
+    "discountedPrice": "$395",
+    "img": "https://picsum.photos/seed/appliance97/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Appliance Model 98",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$794",
+    "discountedPrice": "$397",
+    "img": "https://picsum.photos/seed/appliance98/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Appliance Model 99",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$797",
+    "discountedPrice": "$398",
+    "img": "https://picsum.photos/seed/appliance99/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Appliance Model 100",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$800",
+    "discountedPrice": "$400",
+    "img": "https://picsum.photos/seed/appliance100/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Appliance Model 101",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$803",
+    "discountedPrice": "$401",
+    "img": "https://picsum.photos/seed/appliance101/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Appliance Model 102",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$806",
+    "discountedPrice": "$403",
+    "img": "https://picsum.photos/seed/appliance102/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Appliance Model 103",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$809",
+    "discountedPrice": "$404",
+    "img": "https://picsum.photos/seed/appliance103/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Appliance Model 104",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$812",
+    "discountedPrice": "$406",
+    "img": "https://picsum.photos/seed/appliance104/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Appliance Model 105",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$815",
+    "discountedPrice": "$407",
+    "img": "https://picsum.photos/seed/appliance105/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Appliance Model 106",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$818",
+    "discountedPrice": "$409",
+    "img": "https://picsum.photos/seed/appliance106/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Appliance Model 107",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$821",
+    "discountedPrice": "$410",
+    "img": "https://picsum.photos/seed/appliance107/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Appliance Model 108",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$824",
+    "discountedPrice": "$412",
+    "img": "https://picsum.photos/seed/appliance108/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Appliance Model 109",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$827",
+    "discountedPrice": "$413",
+    "img": "https://picsum.photos/seed/appliance109/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Appliance Model 110",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$830",
+    "discountedPrice": "$415",
+    "img": "https://picsum.photos/seed/appliance110/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Appliance Model 111",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$833",
+    "discountedPrice": "$416",
+    "img": "https://picsum.photos/seed/appliance111/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Appliance Model 112",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$836",
+    "discountedPrice": "$418",
+    "img": "https://picsum.photos/seed/appliance112/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Appliance Model 113",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$839",
+    "discountedPrice": "$419",
+    "img": "https://picsum.photos/seed/appliance113/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Appliance Model 114",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$842",
+    "discountedPrice": "$421",
+    "img": "https://picsum.photos/seed/appliance114/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Appliance Model 115",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$845",
+    "discountedPrice": "$422",
+    "img": "https://picsum.photos/seed/appliance115/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Appliance Model 116",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$848",
+    "discountedPrice": "$424",
+    "img": "https://picsum.photos/seed/appliance116/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Appliance Model 117",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$851",
+    "discountedPrice": "$425",
+    "img": "https://picsum.photos/seed/appliance117/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Appliance Model 118",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$854",
+    "discountedPrice": "$427",
+    "img": "https://picsum.photos/seed/appliance118/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Appliance Model 119",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$857",
+    "discountedPrice": "$428",
+    "img": "https://picsum.photos/seed/appliance119/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Appliance Model 120",
+    "description": "Certified refurbished appliance with 90-day warranty.",
+    "originalPrice": "$860",
+    "discountedPrice": "$430",
+    "img": "https://picsum.photos/seed/appliance120/600/400",
+    "reviews": [
+      "Works like new, very satisfied!",
+      "Great value for the price."
+    ]
+  }
+]
